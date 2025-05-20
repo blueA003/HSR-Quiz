@@ -1,0 +1,40 @@
+.asd {
+  margin: 70px auto 0px auto;
+  padding: 40px;
+  max-width: 50rem;
+  width: 100%;
+}
+.QuizPageImageContainer {
+  display: flex;
+  justify-content: center;
+}
+
+.QuizPageImage {
+  width: 70%;
+}
+
+
+.QuizPageInputContaier{
+  display: flex;
+  justify-content: space-between;
+  margin-top: 100px;
+}
+
+.QuizPageInput{
+  background-color: rgb(36, 36, 36);
+  border: none;
+  outline: none;
+  color: aliceblue;
+  width: 87%;
+  height: 40px;
+  font-size: 20px;
+  text-align: center;
+}
+
+.QuizPageInputButton{
+  background-color: rgb(36, 36, 36);
+  outline: none;
+  border: none;
+  color: aliceblue;
+  width: 10%;
+}

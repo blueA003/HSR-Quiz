@@ -1,0 +1,841 @@
+{
+  "quiz": [
+    {
+      "id": 1,
+      "title": "붕괴: 스타레일 눈 보고 캐릭터 맞추기",
+      "subtitle": "눈",
+      "image": "/images/랑랑.png"
+    },
+    {
+      "id": 2,
+      "title": "붕괴: 스타레일 신발 보고 캐릭터 맞추기",
+      "subtitle": "신발",
+      "image": "/images/랑랑1.jpg"
+    },
+    {
+      "id": 3,
+      "title": "붕괴: 스타레일 머리 보고 캐릭터 맞추기",
+      "subtitle": "머리",
+      "image": "/images/랑랑3.jpg"
+    },
+    {
+      "id": 4,
+      "title": "붕괴: 스타레일 X 보고 캐릭터 맞추기",
+      "subtitle": "미정",
+      "image": "/images/랑랑4.jpg"
+    }
+  ],
+  "eyes": [
+    {
+      "id": 1,
+      "answer": "개척자,스텔레",
+      "alt": "눈",
+      "image":"/images/눈/개척자눈.png"
+    },
+    {
+      "id": 2,
+      "answer": "경류",
+      "alt": "눈",
+      "image":"/images/눈/경류눈.png"
+    },
+    {
+      "id": 3,
+      "answer": "계네빈",
+      "alt": "눈",
+      "image":"/images/눈/계네빈눈.png"
+    },
+    {
+      "id": 4,
+      "answer": "곽향",
+      "alt": "눈",
+      "image":"/images/눈/곽향눈.png"
+    },
+    {
+      "id": 5,
+      "answer": "나타샤",
+      "alt": "눈",
+      "image":"/images/눈/나타샤눈.png"
+    },
+    {
+      "id": 6,
+      "answer": "더헤르타,더르타",
+      "alt": "눈",
+      "image":"/images/눈/더헤르타눈.png"
+    },
+    {
+      "id": 7,
+      "answer": "라파",
+      "alt": "눈",
+      "image":"/images/눈/라파눈.png"
+    },
+    {
+      "id": 8,
+      "answer": "로빈",
+      "alt": "눈",
+      "image":"/images/눈/로빈눈.png"
+    },
+    {
+      "id": 9,
+      "answer": "링스",
+      "alt": "눈",
+      "image":"/images/눈/링스눈.png"
+    },{
+      "id": 10,
+      "answer": "망귀인",
+      "alt": "눈",
+      "image":"/images/눈/망귀인눈.png"
+    },
+    {
+      "id": 11,
+      "answer": "반디",
+      "alt": "눈",
+      "image":"/images/눈/반디눈.png"
+    },
+    {
+      "id": 12,
+      "answer": "백로",
+      "alt": "눈",
+      "image":"/images/눈/백로눈.png"
+    },
+    {
+      "id": 13,
+      "answer": "부현",
+      "alt": "눈",
+      "image":"/images/눈/부현눈.png"
+    },
+    {
+      "id": 14,
+      "answer": "브로냐",
+      "alt": "눈",
+      "image":"/images/눈/브로냐눈.png"
+    },
+    {
+      "id": 15,
+      "answer": "블랙스완,블스",
+      "alt": "눈",
+      "image":"/images/눈/블랙스완눈.png"
+    },
+    {
+      "id": 16,
+      "answer": "비소",
+      "alt": "눈",
+      "image":"/images/눈/비소눈.png"
+    },
+    {
+      "id": 17,
+      "answer": "사이퍼",
+      "alt": "눈",
+      "image":"/images/눈/사이퍼눈.png"
+    },
+    {
+      "id": 18,
+      "answer": "삼칠이,Mar.7th,March7th,마치,마치세븐스",
+      "alt": "눈",
+      "image":"/images/눈/삼칠이눈.png"
+    },
+    {
+      "id": 19,
+      "answer": "서벌",
+      "alt": "눈",
+      "image":"/images/눈/서벌눈.png"
+    },
+    {
+      "id": 20,
+      "answer": "설의",
+      "alt": "눈",
+      "image":"/images/눈/설의눈.png"
+    },
+    {
+      "id": 21,
+      "answer": "소상,이소상,쏘쏘",
+      "alt": "눈",
+      "image":"/images/눈/소상눈.png"
+    },
+    {
+      "id": 22,
+      "answer": "스파클,하나비",
+      "alt": "눈",
+      "image":"/images/눈/스파클눈.png"
+    },
+    {
+      "id": 23,
+      "answer": "아글라이아,아글",
+      "alt": "눈",
+      "image":"/images/눈/아글라이아눈.png"
+    },
+    {
+      "id": 24,
+      "answer": "아스타",
+      "alt": "눈",
+      "image":"/images/눈/아스타눈.png"
+    },
+    {
+      "id": 25,
+      "answer": "아케론,라이덴",
+      "alt": "눈",
+      "image":"/images/눈/아케론눈.png"
+    },
+    {
+      "id": 26,
+      "answer": "어공",
+      "alt": "눈",
+      "image":"/images/눈/어공눈.png"
+    },
+    {
+      "id": 27,
+      "answer": "영사",
+      "alt": "눈",
+      "image":"/images/눈/영사눈.png"
+    },
+    {
+      "id": 28,
+      "answer": "완매",
+      "alt": "눈",
+      "image":"/images/눈/완매눈.png"
+    },
+    {
+      "id": 29,
+      "answer": "운리",
+      "alt": "눈",
+      "image":"/images/눈/운리눈.png"
+    },
+    {
+      "id": 30,
+      "answer": "은랑",
+      "alt": "눈",
+      "image":"/images/눈/은랑눈.png"
+    },
+    {
+      "id": 31,
+      "answer": "정운",
+      "alt": "눈",
+      "image":"/images/눈/정운눈.png"
+    },
+    {
+      "id": 32,
+      "answer": "제레",
+      "alt": "눈",
+      "image":"/images/눈/제레눈.png"
+    },
+    {
+      "id": 33,
+      "answer": "제이드",
+      "alt": "눈",
+      "image":"/images/눈/제이드눈.png"
+    },
+    {
+      "id": 34,
+      "answer": "청작",
+      "alt": "눈",
+      "image":"/images/눈/청작눈.png"
+    },
+    {
+      "id": 35,
+      "answer": "카스토리스,카스",
+      "alt": "눈",
+      "image":"/images/눈/카스토리스눈.png"
+    },
+    {
+      "id": 36,
+      "answer": "카프카",
+      "alt": "눈",
+      "image":"/images/눈/카프카눈.png"
+    },
+    {
+      "id": 37,
+      "answer": "클라라",
+      "alt": "눈",
+      "image":"/images/눈/클라라눈.png"
+    },
+    {
+      "id": 38,
+      "answer": "토파즈",
+      "alt": "눈",
+      "image":"/images/눈/토파즈눈.png"
+    },
+    {
+      "id": 39,
+      "answer": "트리비,트리스비오스,트리앤,트리논",
+      "alt": "눈",
+      "image":"/images/눈/트리비눈.png"
+    },
+    {
+      "id": 40,
+      "answer": "페라",
+      "alt": "눈",
+      "image":"/images/눈/페라눈.png"
+    },
+    {
+      "id": 41,
+      "answer": "한아",
+      "alt": "눈",
+      "image":"/images/눈/한아눈.png"
+    },
+    {
+      "id": 42,
+      "answer": "헤르타",
+      "alt": "눈",
+      "image":"/images/눈/헤르타눈.png"
+    },
+    {
+      "id": 43,
+      "answer": "후크",
+      "alt": "눈",
+      "image":"/images/눈/후크눈.png"
+    },
+    {
+      "id": 44,
+      "answer": "히메코",
+      "alt": "눈",
+      "image":"/images/눈/히메코눈.png"
+    },
+    {
+      "id": 45,
+      "answer": "히아킨",
+      "alt": "눈",
+      "image":"/images/눈/히아킨눈.png"
+    }
+  ],
+  "hair": [
+    {
+      "id": 1,
+      "answer": "개척자,스텔레",
+      "alt": "머리",
+      "image":"/images/머리/개척자.png"
+    },
+    {
+      "id": 2,
+      "answer": "경류",
+      "alt": "머리",
+      "image":"/images/머리/경류.png"
+    },
+    {
+      "id": 3,
+      "answer": "계네빈",
+      "alt": "머리",
+      "image":"/images/머리/계네빈.png"
+    },
+    {
+      "id": 4,
+      "answer": "곽향",
+      "alt": "머리",
+      "image":"/images/머리/곽향.png"
+    },
+    {
+      "id": 5,
+      "answer": "나타샤",
+      "alt": "머리",
+      "image":"/images/머리/나타샤.png"
+    },
+    {
+      "id": 6,
+      "answer": "더헤르타,더르타",
+      "alt": "머리",
+      "image":"/images/머리/더헤르타.png"
+    },
+    {
+      "id": 7,
+      "answer": "라파",
+      "alt": "머리",
+      "image":"/images/머리/라파.png"
+    },
+    {
+      "id": 8,
+      "answer": "로빈",
+      "alt": "머리",
+      "image":"/images/머리/로빈.png"
+    },
+    {
+      "id": 9,
+      "answer": "링스",
+      "alt": "머리",
+      "image":"/images/머리/링스.png"
+    },{
+      "id": 10,
+      "answer": "망귀인",
+      "alt": "머리",
+      "image":"/images/머리/망귀인.png"
+    },
+    {
+      "id": 11,
+      "answer": "반디",
+      "alt": "머리",
+      "image":"/images/머리/반디.png"
+    },
+    {
+      "id": 12,
+      "answer": "백로",
+      "alt": "머리",
+      "image":"/images/머리/백로.png"
+    },
+    {
+      "id": 13,
+      "answer": "부현",
+      "alt": "머리",
+      "image":"/images/머리/부현.png"
+    },
+    {
+      "id": 14,
+      "answer": "브로냐",
+      "alt": "머리",
+      "image":"/images/머리/브로냐.png"
+    },
+    {
+      "id": 15,
+      "answer": "블랙스완,블스",
+      "alt": "머리",
+      "image":"/images/머리/블랙스완.png"
+    },
+    {
+      "id": 16,
+      "answer": "비소",
+      "alt": "머리",
+      "image":"/images/머리/비소.png"
+    },
+    {
+      "id": 17,
+      "answer": "사이퍼",
+      "alt": "머리",
+      "image":"/images/머리/사이퍼.png"
+    },
+    {
+      "id": 18,
+      "answer": "삼칠이,Mar.7th,March7th,마치,마치세븐스",
+      "alt": "머리",
+      "image":"/images/머리/삼칠이.png"
+    },
+    {
+      "id": 19,
+      "answer": "서벌",
+      "alt": "머리",
+      "image":"/images/머리/서벌.png"
+    },
+    {
+      "id": 20,
+      "answer": "설의",
+      "alt": "머리",
+      "image":"/images/머리/설의.png"
+    },
+    {
+      "id": 21,
+      "answer": "소상,이소상,쏘쏘",
+      "alt": "머리",
+      "image":"/images/머리/소상.png"
+    },
+    {
+      "id": 22,
+      "answer": "스파클,하나비",
+      "alt": "머리",
+      "image":"/images/머리/스파클.png"
+    },
+    {
+      "id": 23,
+      "answer": "아글라이아,아글",
+      "alt": "머리",
+      "image":"/images/머리/아글라이아.png"
+    },
+    {
+      "id": 24,
+      "answer": "아스타",
+      "alt": "머리",
+      "image":"/images/머리/아스타.png"
+    },
+    {
+      "id": 25,
+      "answer": "아케론,라이덴",
+      "alt": "머리",
+      "image":"/images/머리/아케론.png"
+    },
+    {
+      "id": 26,
+      "answer": "어공",
+      "alt": "머리",
+      "image":"/images/머리/어공.png"
+    },
+    {
+      "id": 27,
+      "answer": "영사",
+      "alt": "머리",
+      "image":"/images/머리/영사.png"
+    },
+    {
+      "id": 28,
+      "answer": "완매",
+      "alt": "머리",
+      "image":"/images/머리/완매.png"
+    },
+    {
+      "id": 29,
+      "answer": "운리",
+      "alt": "머리",
+      "image":"/images/머리/운리.png"
+    },
+    {
+      "id": 30,
+      "answer": "은랑",
+      "alt": "머리",
+      "image":"/images/머리/은랑.png"
+    },
+    {
+      "id": 31,
+      "answer": "정운",
+      "alt": "머리",
+      "image":"/images/머리/정운.png"
+    },
+    {
+      "id": 32,
+      "answer": "제레",
+      "alt": "머리",
+      "image":"/images/머리/제레.png"
+    },
+    {
+      "id": 33,
+      "answer": "제이드",
+      "alt": "머리",
+      "image":"/images/머리/제이드.png"
+    },
+    {
+      "id": 34,
+      "answer": "청작",
+      "alt": "머리",
+      "image":"/images/머리/청작.png"
+    },
+    {
+      "id": 35,
+      "answer": "카스토리스,카스",
+      "alt": "머리",
+      "image":"/images/머리/카스토리스.png"
+    },
+    {
+      "id": 36,
+      "answer": "카프카",
+      "alt": "머리",
+      "image":"/images/머리/카프카.png"
+    },
+    {
+      "id": 37,
+      "answer": "클라라",
+      "alt": "머리",
+      "image":"/images/머리/클라라.png"
+    },
+    {
+      "id": 38,
+      "answer": "토파즈",
+      "alt": "머리",
+      "image":"/images/머리/토파즈.png"
+    },
+    {
+      "id": 39,
+      "answer": "트리비,트리스비오스,트리앤,트리논",
+      "alt": "머리",
+      "image":"/images/머리/트리비.png"
+    },
+    {
+      "id": 40,
+      "answer": "페라",
+      "alt": "머리",
+      "image":"/images/머리/페라.png"
+    },
+    {
+      "id": 41,
+      "answer": "한아",
+      "alt": "머리",
+      "image":"/images/머리/한아.png"
+    },
+    {
+      "id": 42,
+      "answer": "헤르타",
+      "alt": "머리",
+      "image":"/images/머리/헤르타.png"
+    },
+    {
+      "id": 43,
+      "answer": "후크",
+      "alt": "머리",
+      "image":"/images/머리/후크.png"
+    },
+    {
+      "id": 44,
+      "answer": "히메코",
+      "alt": "머리",
+      "image":"/images/머리/히메코.png"
+    },
+    {
+      "id": 45,
+      "answer": "히아킨",
+      "alt": "머리",
+      "image":"/images/머리/히아킨.png"
+    }
+  ],
+  "leg": [
+    {
+      "id": 1,
+      "answer": "개척자,스텔레",
+      "alt": "신발",
+      "image":"/images/신발/개척자신발.png"
+    },
+    {
+      "id": 2,
+      "answer": "경류",
+      "alt": "신발",
+      "image":"/images/신발/경류신발.png"
+    },
+    {
+      "id": 3,
+      "answer": "계네빈",
+      "alt": "신발",
+      "image":"/images/신발/계네빈신발.png"
+    },
+    {
+      "id": 4,
+      "answer": "곽향",
+      "alt": "신발",
+      "image":"/images/신발/곽향신발.png"
+    },
+    {
+      "id": 5,
+      "answer": "나타샤",
+      "alt": "신발",
+      "image":"/images/신발/나타샤신발.png"
+    },
+    {
+      "id": 6,
+      "answer": "더헤르타,더르타",
+      "alt": "신발",
+      "image":"/images/신발/더헤르타신발.png"
+    },
+    {
+      "id": 7,
+      "answer": "라파",
+      "alt": "신발",
+      "image":"/images/신발/라파신발.png"
+    },
+    {
+      "id": 8,
+      "answer": "로빈",
+      "alt": "신발",
+      "image":"/images/신발/로빈신발.png"
+    },
+    {
+      "id": 9,
+      "answer": "링스",
+      "alt": "신발",
+      "image":"/images/신발/링스신발.png"
+    },{
+      "id": 10,
+      "answer": "망귀인",
+      "alt": "신발",
+      "image":"/images/신발/망귀인신발.png"
+    },
+    {
+      "id": 11,
+      "answer": "반디",
+      "alt": "신발",
+      "image":"/images/신발/반디신발.png"
+    },
+    {
+      "id": 12,
+      "answer": "백로",
+      "alt": "신발",
+      "image":"/images/신발/백로신발.png"
+    },
+    {
+      "id": 13,
+      "answer": "부현",
+      "alt": "신발",
+      "image":"/images/신발/부현신발.png"
+    },
+    {
+      "id": 14,
+      "answer": "브로냐",
+      "alt": "신발",
+      "image":"/images/신발/브로냐신발.png"
+    },
+    {
+      "id": 15,
+      "answer": "블랙스완,블스",
+      "alt": "신발",
+      "image":"/images/신발/블랙스완신발.png"
+    },
+    {
+      "id": 16,
+      "answer": "비소",
+      "alt": "신발",
+      "image":"/images/신발/비소신발.png"
+    },
+    {
+      "id": 17,
+      "answer": "사이퍼",
+      "alt": "신발",
+      "image":"/images/신발/사이퍼신발.png"
+    },
+    {
+      "id": 18,
+      "answer": "삼칠이,Mar.7th,March7th,마치,마치세븐스",
+      "alt": "신발",
+      "image":"/images/신발/삼칠이신발.png"
+    },
+    {
+      "id": 19,
+      "answer": "서벌",
+      "alt": "신발",
+      "image":"/images/신발/서벌신발.png"
+    },
+    {
+      "id": 20,
+      "answer": "설의",
+      "alt": "신발",
+      "image":"/images/신발/설의신발.png"
+    },
+    {
+      "id": 21,
+      "answer": "소상,이소상,쏘쏘",
+      "alt": "신발",
+      "image":"/images/신발/소상신발.png"
+    },
+    {
+      "id": 22,
+      "answer": "스파클,하나비",
+      "alt": "신발",
+      "image":"/images/신발/스파클신발.png"
+    },
+    {
+      "id": 23,
+      "answer": "아글라이아,아글",
+      "alt": "신발",
+      "image":"/images/신발/아글라이아신발.png"
+    },
+    {
+      "id": 24,
+      "answer": "아스타",
+      "alt": "신발",
+      "image":"/images/신발/아스타신발.png"
+    },
+    {
+      "id": 25,
+      "answer": "아케론,라이덴",
+      "alt": "신발",
+      "image":"/images/신발/아케론신발.png"
+    },
+    {
+      "id": 26,
+      "answer": "어공",
+      "alt": "신발",
+      "image":"/images/신발/어공신발.png"
+    },
+    {
+      "id": 27,
+      "answer": "영사",
+      "alt": "신발",
+      "image":"/images/신발/영사신발.png"
+    },
+    {
+      "id": 28,
+      "answer": "완매",
+      "alt": "신발",
+      "image":"/images/신발/완매신발.png"
+    },
+    {
+      "id": 29,
+      "answer": "운리",
+      "alt": "신발",
+      "image":"/images/신발/운리신발.png"
+    },
+    {
+      "id": 30,
+      "answer": "은랑",
+      "alt": "신발",
+      "image":"/images/신발/은랑신발.png"
+    },
+    {
+      "id": 31,
+      "answer": "정운",
+      "alt": "신발",
+      "image":"/images/신발/정운신발.png"
+    },
+    {
+      "id": 32,
+      "answer": "제레",
+      "alt": "신발",
+      "image":"/images/신발/제레신발.png"
+    },
+    {
+      "id": 33,
+      "answer": "제이드",
+      "alt": "신발",
+      "image":"/images/신발/제이드신발.png"
+    },
+    {
+      "id": 34,
+      "answer": "청작",
+      "alt": "신발",
+      "image":"/images/신발/청작신발.png"
+    },
+    {
+      "id": 35,
+      "answer": "카스토리스,카스",
+      "alt": "신발",
+      "image":"/images/신발/카스토리스신발.png"
+    },
+    {
+      "id": 36,
+      "answer": "카프카",
+      "alt": "신발",
+      "image":"/images/신발/카프카신발.png"
+    },
+    {
+      "id": 37,
+      "answer": "클라라",
+      "alt": "신발",
+      "image":"/images/신발/클라라신발.png"
+    },
+    {
+      "id": 38,
+      "answer": "토파즈",
+      "alt": "신발",
+      "image":"/images/신발/토파즈신발.png"
+    },
+    {
+      "id": 39,
+      "answer": "트리비,트리스비오스,트리앤,트리논",
+      "alt": "신발",
+      "image":"/images/신발/트리비신발.png"
+    },
+    {
+      "id": 40,
+      "answer": "페라",
+      "alt": "신발",
+      "image":"/images/신발/페라신발.png"
+    },
+    {
+      "id": 41,
+      "answer": "한아",
+      "alt": "신발",
+      "image":"/images/신발/한아신발.png"
+    },
+    {
+      "id": 42,
+      "answer": "헤르타",
+      "alt": "신발",
+      "image":"/images/신발/헤르타신발.png"
+    },
+    {
+      "id": 43,
+      "answer": "후크",
+      "alt": "신발",
+      "image":"/images/신발/후크신발.png"
+    },
+    {
+      "id": 44,
+      "answer": "히메코",
+      "alt": "신발",
+      "image":"/images/신발/히메코신발.png"
+    },
+    {
+      "id": 45,
+      "answer": "히아킨",
+      "alt": "신발",
+      "image":"/images/신발/히아킨신발.png"
+    }
+  ]
+}

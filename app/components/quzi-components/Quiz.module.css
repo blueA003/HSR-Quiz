@@ -1,0 +1,85 @@
+.SortContainers {
+  display: flex;
+  justify-content: right;
+  align-items: center;
+  padding: 30px 20px 10px 10px;
+}
+
+.Quiz {
+  padding: 10px;
+  align-items: center;
+}
+
+.QuizDetail {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 40px;
+  padding: 10px;
+}
+
+@media (max-width: 1024px) {
+  .QuizDetail {
+    grid-template-columns: repeat(2, 1fr);
+    gap:60px
+  }
+}
+
+@media (max-width: 600px) {
+  .QuizDetail {
+    grid-template-columns: 1fr;
+  }
+}
+
+.QuizContainer {
+  width: 100%;
+  background-color: rgb(36, 36, 36);
+  border-radius: 8px;
+  margin-bottom: 20px;
+  transition: transform 0.25s ease;
+}
+
+.QuizContainer:hover {
+  transform: scale(1.03);
+}
+
+.QuizPhoto {
+  width: 100%;
+}
+
+.QuizTitle{
+  padding: 10px;
+  font-size: 16px;
+  display: flex;
+  height: 80px;
+  color: rgb(255, 255, 255);
+  background-color: rgb(36 36 36);
+}
+.QuizSub {
+  padding: 0px 10px 0px 10px;
+  font-size: 14px;
+  height: 80px;
+  color: rgb(161, 161, 161);
+  background-color: rgb(36 36 36);
+}
+
+/* @media (max-width: 1070px) {
+  .QuizDetail {
+    grid-template-columns: repeat(2, 1fr);
+  }
+} */
+
+.Sort {
+  background-color: rgb(36 36 36);
+  color: rgb(161, 161, 161);
+}
+.Sort:focus {
+  outline: none;
+  box-shadow: none;
+  border: none;
+}
+
+.SortOption {
+  background-color: rgb(36 36 36);
+  color: rgb(161, 161, 161);
+  border-radius: 5px;
+}
