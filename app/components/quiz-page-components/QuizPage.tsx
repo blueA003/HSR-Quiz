@@ -4,7 +4,7 @@ import QuizPageImage from './QuizPageImage'
 
 export default function QuizPage() {
   return (
-    <div className={styles.asd}>
+    <div className={styles.QuizPageContainer}>
       <QuizPageImage></QuizPageImage>
     </div>
   )

@@ -13,16 +13,18 @@ export default function QuizDetail() {
   const search = params.get('search');
   const sortText = params.get('sort');
 
-  const QuizData = (search? Quiz.quiz.filter(({title,}) => (
-    title.includes(search)
+  const QuizData = (search? Quiz.quiz.filter(({title}) => (
+    title.toLowerCase().replace(/\s/gi, "").includes(search)
   )) : Quiz.quiz).sort((a, b) =>
     sortText === "oldest" ? a.id - b.id :
     sortText === "newest" ? b.id - a.id :
     0);
   
-  const handleOnClick = (id: number) => {
-    router.push(`/quiz/${id}`);
+  const handleOnClick = (page: string) => {
+    router.push(`/?quiz=${page}`);
   };
+
+
   
   return (
     <div className={styles.QuizDetail}>
@@ -30,7 +32,7 @@ export default function QuizDetail() {
         <div 
         key={index}
         className={styles.QuizContainer}
-        onClick={() => handleOnClick(item.id)}
+        onClick={() => handleOnClick(item.page)}
         >
           <Image
             src={item.image}

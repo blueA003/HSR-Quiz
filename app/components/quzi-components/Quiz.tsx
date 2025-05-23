@@ -1,19 +1,28 @@
-import React from 'react'
-import styles from './Quiz.module.css'
-import QuizDetail from './QuizDetail'
-import Sort from './Sort'
+"use client";
+
+import React from "react";
+import { useSearchParams } from "next/navigation";
+
+import styles from "./Quiz.module.css";
+import QuizDetail from "./QuizDetail";
+import Sort from "./Sort";
+import QuizPage from "../quiz-page-components/QuizPage";
 
 export default function Quiz() {
-  return (
-    <div className='containers'>
+  const params = useSearchParams();
+  const quizParams = params.get("quiz");
+  const isQuizPage = quizParams == null;
+
+  return isQuizPage ? (
+    <div className="containers">
       <div className={styles.SortContainers}>
-        <Sort></Sort>
+        <Sort />
       </div>
       <div className={styles.Quiz}>
-        <div>
-          <QuizDetail></QuizDetail>
-        </div>
+        <QuizDetail/>
       </div>
     </div>
-  )
+  ) : (
+    <QuizPage/>
+  );
 }

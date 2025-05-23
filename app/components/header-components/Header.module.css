@@ -68,3 +68,27 @@
   background-color: rgb(36, 36, 36);
   color: #ffffff;
 }
+
+@media (max-width: 768px) {
+  .HeaderText{
+    font-size: 20px;
+    padding: 0 5px;
+  }
+}
+@media (max-width: 600px) {
+  .InputContainer {
+    max-width: 200px;
+  }
+}
+@media (max-width: 500px) {
+  .HeaderText{
+    display: none;
+  }
+}
+
+
+@media (max-width: 400px) {
+  .HeaderImage{
+    gap: 5px;
+  }
+}

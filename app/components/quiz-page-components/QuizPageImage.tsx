@@ -3,19 +3,21 @@
 import Image from 'next/image'
 import React, { useEffect, useState } from 'react'
 import styles from './QuizPage.module.css'
-import { useParams } from 'next/navigation';
+import { useSearchParams } from 'next/navigation';
 import QuizDetail from '../../../data/db.json'
 import FisherYatesShuffle from './FisherYatesShuffle';
+import Link from 'next/link';
 
 interface QuizDetailType {
   id: number;
-  answer: string;
+  answer: string[];
   alt: string;
   image: string;
 };
 
 export default function QuizPageImage() {
-  const params = useParams();
+  const queryKey = useSearchParams();
+  const queryvalue = queryKey.get('quiz');
 
   const [quizValue, setQuizValue] = useState<QuizDetailType[]>([]);
   const [quizValueIndex, setQuizValueIndex] = useState(0);
@@ -23,45 +25,64 @@ export default function QuizPageImage() {
   const [inputValue, setInputValue] = useState('');
 
   const quizItemMap: Record<string, QuizDetailType[]> = {
-    "1": QuizDetail.eyes,
-    "2": QuizDetail.leg,
-    "3": QuizDetail.hair
+    "eyes": QuizDetail.quizItem.eyes,
+    "leg": QuizDetail.quizItem.leg,
+    "hair": QuizDetail.quizItem.hair
   };
 
   useEffect(() => {
-    const randomData = quizItemMap[params.title as string] || QuizDetail.eyes
+    const randomData = quizItemMap[queryvalue as string] || QuizDetail.quizItem.eyes
     const quizItem = FisherYatesShuffle(randomData);
     setQuizValue(quizItem);
     setQuizValueIndex(0);
   }, []);
 
   const handleCheck = () => {
-    if(a.answer.split(',').includes(inputValue))
+    const refineInputValue = inputValue.trim().replace(/\s/g, "");
+    if(imageItem.answer.includes(refineInputValue))
       setScore(score + 1);
     setInputValue('');
     setQuizValueIndex(quizValueIndex + 1);
   }
   
-  const a = quizValue[quizValueIndex];
-  const isEnd = quizValueIndex >= quizValue.length
-  
+  const imageItem = quizValue[quizValueIndex];
+  const isEnd = quizValueIndex >= quizValue.length // >= 스타일 끝나면 바꾸기
+
   return isEnd ? (
-    <div>
-      {(score/quizValue.length *100).toFixed(1)} 점
+    <div className={styles.QuizEndContainer}>
+      <div className={styles.ImageContainer}>
+        <div className={styles.HomeImageContainer}>
+          <Link href={'/'}>
+            <Image
+              src={'/images/home.png'}
+              alt=''
+              fill
+              className={styles.HomeImage}
+            />
+          </Link>
+        </div>
+      </div>
+      <div className={styles.QuizEndText}>
+        {score} / 45문항
+      </div>
+      <div className={styles.QuizEndText}>
+        {(score/quizValue.length *100).toFixed(1)} 점
+      </div>
     </div>
   ) : (
     <div>
-      <div className={styles.QuizPageImageContainer}>
-        {a && (
-          <Image
-            key={a.id}
-            src={a.image}
-            alt={a.alt}
-            width={400}
-            height={400}
-            className={styles.QuizPageImage}
-          />
-        )}
+      <div className={styles.ImageContainer}>
+        <div className={styles.QuizPageImageContainer}>
+          {imageItem && (
+            <Image
+              key={imageItem.id}
+              src={imageItem.image}
+              alt={imageItem.alt}
+              fill
+              className={styles.QuizPageImage}
+            />
+          )}
+        </div>
       </div>
       <div className={styles.QuizPageInputContaier}>
         <input 

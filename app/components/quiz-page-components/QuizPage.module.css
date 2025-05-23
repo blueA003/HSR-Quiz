@@ -1,23 +1,25 @@
-.asd {
-  margin: 70px auto 0px auto;
+.QuizPageContainer {
+  margin: 100px auto 0px auto;
   padding: 40px;
   max-width: 50rem;
   width: 100%;
 }
 .QuizPageImageContainer {
-  display: flex;
-  justify-content: center;
+  position: relative;
+  margin-bottom: 10px;
+  width: 100%;
+  max-width: 400px;
+  aspect-ratio: 1 / 1;
 }
 
 .QuizPageImage {
   width: 70%;
 }
 
-
 .QuizPageInputContaier{
   display: flex;
   justify-content: space-between;
-  margin-top: 100px;
+  margin-top: 20px;
 }
 
 .QuizPageInput{
@@ -37,4 +39,29 @@
   border: none;
   color: aliceblue;
   width: 10%;
+}
+
+.QuizEndContainer {
+  justify-content: center;
+}
+
+.QuizEndText {
+  font-size: 32px;
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+}
+.HomeImage{
+  border: 2px solid rgb(255, 255, 255);
+}
+.HomeImageContainer{
+  position: relative;
+  margin-bottom: 10px;
+  width: 100%;
+  max-width: 400px;
+  aspect-ratio: 1 / 1;
+}
+.ImageContainer{
+  display: flex;
+  justify-content: center;
 }

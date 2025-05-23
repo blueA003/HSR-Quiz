@@ -12,10 +12,11 @@ const searchParams = useSearchParams()
 
 const handleSubmit = (e: React.FormEvent<HTMLFormElement>) => {
   e.preventDefault();
+  const refineSearch = searchValue.trim().replace(/\s/g, "");
   if (searchValue.trim()) {
     const params = new URLSearchParams(searchParams.toString())
-    params.set("search", searchValue.trim())
-    router.push(`?${params.toString()}`);
+    params.set("search", refineSearch)
+    router.push(`?${params.toString().toLowerCase()}`);
     setSearchValue("");
   }
 }

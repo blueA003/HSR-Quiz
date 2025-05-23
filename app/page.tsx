@@ -3,12 +3,14 @@ import Header from "./components/header-components/Header";
 import Quiz from "./components/quzi-components/Quiz";
 import "./globals.css";
 
-export default function home() {
+export default function Home() {
   return (
-    <div>
-      <Header/>
-      <Quiz/>
-      <Footer/>
+    <div className="pageContainer">
+      <Header />
+      <div className="mainContent">
+        <Quiz />
+      </div>
+      <Footer />
     </div>
   );
 }
