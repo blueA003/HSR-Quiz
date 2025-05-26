@@ -35,6 +35,7 @@ export default function QuizPageImage() {
     const quizItem = FisherYatesShuffle(randomData);
     setQuizValue(quizItem);
     setQuizValueIndex(0);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
   const handleCheck = () => {

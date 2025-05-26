@@ -11,7 +11,7 @@ export default function HeaderName() {
     <div className={styles.HeaderNameContainer}>
       <Link href="/">
         <Image
-          src = "/images/랑랑2.jpg"
+          src = "/images/main.jpg"
           alt='HomeImage'
           width={50}
           height={50}

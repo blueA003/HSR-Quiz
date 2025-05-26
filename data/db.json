@@ -3,29 +3,29 @@
     {
       "id": 1,
       "title": "붕괴: 스타레일 눈 보고 캐릭터 맞추기",
-      "subtitle": "총 45캐릭터이며, 이격의 경우 구분하고 있으며 유저 사이에서 부르는 명칭으로도 정답 처리합니다.",
-      "image": "/images/랑랑.png",
+      "subtitle": "총 45캐릭터이며, 이격의 경우 구분하고 있으며 캐릭터 이름이 정확하지 않아도 유저 사이에서 부르는 명칭으로도 정답 처리합니다.",
+      "image": "/images/1.png",
       "page" : "eyes"
     },
     {
       "id": 2,
       "title": "붕괴: 스타레일 신발 보고 캐릭터 맞추기",
       "subtitle": "사진은 다 은랑입니다(그야 귀엽잖아요)",
-      "image": "/images/랑랑1.jpg",
+      "image": "/images/2.jpg",
       "page" : "leg"
     },
     {
       "id": 3,
       "title": "붕괴: 스타레일 머리 보고 캐릭터 맞추기",
       "subtitle": "붕괴: 스타레일 여캐만 모았습니다. 45캐릭터이며, 헤르타와 더 헤르타 / 정운과 망귀인은 구분하고 있습니다.",
-      "image": "/images/랑랑3.jpg",
+      "image": "/images/3.jpg",
       "page" : "hair"
     },
     {
       "id": 4,
       "title": "맨 아래 제 포트폴리오랑 깃허브도 있습니다",
       "subtitle": "한 번만 확인해 주세요",
-      "image": "/images/랑랑4.jpg",
+      "image": "/images/4.jpg",
       "page" : "eyes"
     }
   ],
@@ -38,7 +38,7 @@
           "스텔레"
         ],
         "alt": "눈",
-        "image": "/images/눈/개척자눈.png"
+        "image": "/images/eye/1.png"
       },
       {
         "id": 2,
@@ -46,7 +46,7 @@
           "경류"
         ],
         "alt": "눈",
-        "image": "/images/눈/경류눈.png"
+        "image": "/images/eye/2.png"
       },
       {
         "id": 3,
@@ -54,7 +54,7 @@
           "계네빈"
         ],
         "alt": "눈",
-        "image": "/images/눈/계네빈눈.png"
+        "image": "/images/eye/3.png"
       },
       {
         "id": 4,
@@ -62,7 +62,7 @@
           "곽향"
         ],
         "alt": "눈",
-        "image": "/images/눈/곽향눈.png"
+        "image": "/images/eye/4.png"
       },
       {
         "id": 5,
@@ -70,7 +70,7 @@
           "나타샤"
         ],
         "alt": "눈",
-        "image": "/images/눈/나타샤눈.png"
+        "image": "/images/eye/5.png"
       },
       {
         "id": 6,
@@ -79,7 +79,7 @@
           "더르타"
         ],
         "alt": "눈",
-        "image": "/images/눈/더헤르타눈.png"
+        "image": "/images/eye/6.png"
       },
       {
         "id": 7,
@@ -87,7 +87,7 @@
           "라파"
         ],
         "alt": "눈",
-        "image": "/images/눈/라파눈.png"
+        "image": "/images/eye/7.png"
       },
       {
         "id": 8,
@@ -95,7 +95,7 @@
           "로빈"
         ],
         "alt": "눈",
-        "image": "/images/눈/로빈눈.png"
+        "image": "/images/eye/8.png"
       },
       {
         "id": 9,
@@ -103,7 +103,7 @@
           "링스"
         ],
         "alt": "눈",
-        "image": "/images/눈/링스눈.png"
+        "image": "/images/eye/9.png"
       },
       {
         "id": 10,
@@ -111,7 +111,7 @@
           "망귀인"
         ],
         "alt": "눈",
-        "image": "/images/눈/망귀인눈.png"
+        "image": "/images/eye/10.png"
       },
       {
         "id": 11,
@@ -119,7 +119,7 @@
           "반디"
         ],
         "alt": "눈",
-        "image": "/images/눈/반디눈.png"
+        "image": "/images/eye/11.png"
       },
       {
         "id": 12,
@@ -127,7 +127,7 @@
           "백로"
         ],
         "alt": "눈",
-        "image": "/images/눈/백로눈.png"
+        "image": "/images/eye/12.png"
       },
       {
         "id": 13,
@@ -135,7 +135,7 @@
           "부현"
         ],
         "alt": "눈",
-        "image": "/images/눈/부현눈.png"
+        "image": "/images/eye/13.png"
       },
       {
         "id": 14,
@@ -143,7 +143,7 @@
           "브로냐"
         ],
         "alt": "눈",
-        "image": "/images/눈/브로냐눈.png"
+        "image": "/images/eye/14.png"
       },
       {
         "id": 15,
@@ -152,7 +152,7 @@
           "블스"
         ],
         "alt": "눈",
-        "image": "/images/눈/블랙스완눈.png"
+        "image": "/images/eye/15.png"
       },
       {
         "id": 16,
@@ -160,7 +160,7 @@
           "비소"
         ],
         "alt": "눈",
-        "image": "/images/눈/비소눈.png"
+        "image": "/images/eye/16.png"
       },
       {
         "id": 17,
@@ -168,7 +168,7 @@
           "사이퍼"
         ],
         "alt": "눈",
-        "image": "/images/눈/사이퍼눈.png"
+        "image": "/images/eye/17.png"
       },
       {
         "id": 18,
@@ -180,7 +180,7 @@
           "마치세븐스"
         ],
         "alt": "눈",
-        "image": "/images/눈/삼칠이눈.png"
+        "image": "/images/eye/18.png"
       },
       {
         "id": 19,
@@ -188,7 +188,7 @@
           "서벌"
         ],
         "alt": "눈",
-        "image": "/images/눈/서벌눈.png"
+        "image": "/images/eye/19.png"
       },
       {
         "id": 20,
@@ -196,7 +196,7 @@
           "설의"
         ],
         "alt": "눈",
-        "image": "/images/눈/설의눈.png"
+        "image": "/images/eye/20.png"
       },
       {
         "id": 21,
@@ -206,7 +206,7 @@
           "쏘쏘"
         ],
         "alt": "눈",
-        "image": "/images/눈/소상눈.png"
+        "image": "/images/eye/21.png"
       },
       {
         "id": 22,
@@ -215,7 +215,7 @@
           "하나비"
         ],
         "alt": "눈",
-        "image": "/images/눈/스파클눈.png"
+        "image": "/images/eye/22.png"
       },
       {
         "id": 23,
@@ -224,7 +224,7 @@
           "아글"
         ],
         "alt": "눈",
-        "image": "/images/눈/아글라이아눈.png"
+        "image": "/images/eye/23.png"
       },
       {
         "id": 24,
@@ -232,7 +232,7 @@
           "아스타"
         ],
         "alt": "눈",
-        "image": "/images/눈/아스타눈.png"
+        "image": "/images/eye/24.png"
       },
       {
         "id": 25,
@@ -241,7 +241,7 @@
           "라이덴"
         ],
         "alt": "눈",
-        "image": "/images/눈/아케론눈.png"
+        "image": "/images/eye/25.png"
       },
       {
         "id": 26,
@@ -249,7 +249,7 @@
           "어공"
         ],
         "alt": "눈",
-        "image": "/images/눈/어공눈.png"
+        "image": "/images/eye/26.png"
       },
       {
         "id": 27,
@@ -257,7 +257,7 @@
           "영사"
         ],
         "alt": "눈",
-        "image": "/images/눈/영사눈.png"
+        "image": "/images/eye/27.png"
       },
       {
         "id": 28,
@@ -265,7 +265,7 @@
           "완매"
         ],
         "alt": "눈",
-        "image": "/images/눈/완매눈.png"
+        "image": "/images/eye/28.png"
       },
       {
         "id": 29,
@@ -273,7 +273,7 @@
           "운리"
         ],
         "alt": "눈",
-        "image": "/images/눈/운리눈.png"
+        "image": "/images/eye/29.png"
       },
       {
         "id": 30,
@@ -281,7 +281,7 @@
           "은랑"
         ],
         "alt": "눈",
-        "image": "/images/눈/은랑눈.png"
+        "image": "/images/eye/30.png"
       },
       {
         "id": 31,
@@ -289,7 +289,7 @@
           "정운"
         ],
         "alt": "눈",
-        "image": "/images/눈/정운눈.png"
+        "image": "/images/eye/31.png"
       },
       {
         "id": 32,
@@ -297,7 +297,7 @@
           "제레"
         ],
         "alt": "눈",
-        "image": "/images/눈/제레눈.png"
+        "image": "/images/eye/32.png"
       },
       {
         "id": 33,
@@ -305,7 +305,7 @@
           "제이드"
         ],
         "alt": "눈",
-        "image": "/images/눈/제이드눈.png"
+        "image": "/images/eye/33.png"
       },
       {
         "id": 34,
@@ -313,7 +313,7 @@
           "청작"
         ],
         "alt": "눈",
-        "image": "/images/눈/청작눈.png"
+        "image": "/images/eye/34.png"
       },
       {
         "id": 35,
@@ -322,7 +322,7 @@
           "카스"
         ],
         "alt": "눈",
-        "image": "/images/눈/카스토리스눈.png"
+        "image": "/images/eye/35.png"
       },
       {
         "id": 36,
@@ -330,7 +330,7 @@
           "카프카"
         ],
         "alt": "눈",
-        "image": "/images/눈/카프카눈.png"
+        "image": "/images/eye/36.png"
       },
       {
         "id": 37,
@@ -338,7 +338,7 @@
           "클라라"
         ],
         "alt": "눈",
-        "image": "/images/눈/클라라눈.png"
+        "image": "/images/eye/37.png"
       },
       {
         "id": 38,
@@ -346,7 +346,7 @@
           "토파즈"
         ],
         "alt": "눈",
-        "image": "/images/눈/토파즈눈.png"
+        "image": "/images/eye/38.png"
       },
       {
         "id": 39,
@@ -357,7 +357,7 @@
           "트리논"
         ],
         "alt": "눈",
-        "image": "/images/눈/트리비눈.png"
+        "image": "/images/eye/39.png"
       },
       {
         "id": 40,
@@ -365,7 +365,7 @@
           "페라"
         ],
         "alt": "눈",
-        "image": "/images/눈/페라눈.png"
+        "image": "/images/eye/40.png"
       },
       {
         "id": 41,
@@ -373,7 +373,7 @@
           "한아"
         ],
         "alt": "눈",
-        "image": "/images/눈/한아눈.png"
+        "image": "/images/eye/41.png"
       },
       {
         "id": 42,
@@ -381,7 +381,7 @@
           "헤르타"
         ],
         "alt": "눈",
-        "image": "/images/눈/헤르타눈.png"
+        "image": "/images/eye/42.png"
       },
       {
         "id": 43,
@@ -389,7 +389,7 @@
           "후크"
         ],
         "alt": "눈",
-        "image": "/images/눈/후크눈.png"
+        "image": "/images/eye/43.png"
       },
       {
         "id": 44,
@@ -397,7 +397,7 @@
           "히메코"
         ],
         "alt": "눈",
-        "image": "/images/눈/히메코눈.png"
+        "image": "/images/eye/44.png"
       },
       {
         "id": 45,
@@ -405,7 +405,7 @@
           "히아킨"
         ],
         "alt": "눈",
-        "image": "/images/눈/히아킨눈.png"
+        "image": "/images/eye/45.png"
       }
     ],
     "hair": [
@@ -416,7 +416,7 @@
           "스텔레"
         ],
         "alt": "머리",
-        "image": "/images/머리/개척자.png"
+        "image": "/images/hair/1.png"
       },
       {
         "id": 2,
@@ -424,7 +424,7 @@
           "경류"
         ],
         "alt": "머리",
-        "image": "/images/머리/경류.png"
+        "image": "/images/hair/2.png"
       },
       {
         "id": 3,
@@ -432,7 +432,7 @@
           "계네빈"
         ],
         "alt": "머리",
-        "image": "/images/머리/계네빈.png"
+        "image": "/images/hair/3.png"
       },
       {
         "id": 4,
@@ -440,7 +440,7 @@
           "곽향"
         ],
         "alt": "머리",
-        "image": "/images/머리/곽향.png"
+        "image": "/images/hair/4.png"
       },
       {
         "id": 5,
@@ -448,7 +448,7 @@
           "나타샤"
         ],
         "alt": "머리",
-        "image": "/images/머리/나타샤.png"
+        "image": "/images/hair/5.png"
       },
       {
         "id": 6,
@@ -457,7 +457,7 @@
           "더르타"
         ],
         "alt": "머리",
-        "image": "/images/머리/더헤르타.png"
+        "image": "/images/hair/6.png"
       },
       {
         "id": 7,
@@ -465,7 +465,7 @@
           "라파"
         ],
         "alt": "머리",
-        "image": "/images/머리/라파.png"
+        "image": "/images/hair/7.png"
       },
       {
         "id": 8,
@@ -473,7 +473,7 @@
           "로빈"
         ],
         "alt": "머리",
-        "image": "/images/머리/로빈.png"
+        "image": "/images/hair/8.png"
       },
       {
         "id": 9,
@@ -481,7 +481,7 @@
           "링스"
         ],
         "alt": "머리",
-        "image": "/images/머리/링스.png"
+        "image": "/images/hair/9.png"
       },
       {
         "id": 10,
@@ -489,7 +489,7 @@
           "망귀인"
         ],
         "alt": "머리",
-        "image": "/images/머리/망귀인.png"
+        "image": "/images/hair/10.png"
       },
       {
         "id": 11,
@@ -497,7 +497,7 @@
           "반디"
         ],
         "alt": "머리",
-        "image": "/images/머리/반디.png"
+        "image": "/images/hair/11.png"
       },
       {
         "id": 12,
@@ -505,7 +505,7 @@
           "백로"
         ],
         "alt": "머리",
-        "image": "/images/머리/백로.png"
+        "image": "/images/hair/12.png"
       },
       {
         "id": 13,
@@ -513,7 +513,7 @@
           "부현"
         ],
         "alt": "머리",
-        "image": "/images/머리/부현.png"
+        "image": "/images/hair/13.png"
       },
       {
         "id": 14,
@@ -521,7 +521,7 @@
           "브로냐"
         ],
         "alt": "머리",
-        "image": "/images/머리/브로냐.png"
+        "image": "/images/hair/14.png"
       },
       {
         "id": 15,
@@ -530,7 +530,7 @@
           "블스"
         ],
         "alt": "머리",
-        "image": "/images/머리/블랙스완.png"
+        "image": "/images/hair/15.png"
       },
       {
         "id": 16,
@@ -538,7 +538,7 @@
           "비소"
         ],
         "alt": "머리",
-        "image": "/images/머리/비소.png"
+        "image": "/images/hair/16.png"
       },
       {
         "id": 17,
@@ -546,7 +546,7 @@
           "사이퍼"
         ],
         "alt": "머리",
-        "image": "/images/머리/사이퍼.png"
+        "image": "/images/hair/17.png"
       },
       {
         "id": 18,
@@ -558,7 +558,7 @@
           "마치세븐스"
         ],
         "alt": "머리",
-        "image": "/images/머리/삼칠이.png"
+        "image": "/images/hair/18.png"
       },
       {
         "id": 19,
@@ -566,7 +566,7 @@
           "서벌"
         ],
         "alt": "머리",
-        "image": "/images/머리/서벌.png"
+        "image": "/images/hair/19.png"
       },
       {
         "id": 20,
@@ -574,7 +574,7 @@
           "설의"
         ],
         "alt": "머리",
-        "image": "/images/머리/설의.png"
+        "image": "/images/hair/20.png"
       },
       {
         "id": 21,
@@ -584,7 +584,7 @@
           "쏘쏘"
         ],
         "alt": "머리",
-        "image": "/images/머리/소상.png"
+        "image": "/images/hair/21.png"
       },
       {
         "id": 22,
@@ -593,7 +593,7 @@
           "하나비"
         ],
         "alt": "머리",
-        "image": "/images/머리/스파클.png"
+        "image": "/images/hair/22.png"
       },
       {
         "id": 23,
@@ -602,7 +602,7 @@
           "아글"
         ],
         "alt": "머리",
-        "image": "/images/머리/아글라이아.png"
+        "image": "/images/hair/23.png"
       },
       {
         "id": 24,
@@ -610,7 +610,7 @@
           "아스타"
         ],
         "alt": "머리",
-        "image": "/images/머리/아스타.png"
+        "image": "/images/hair/24.png"
       },
       {
         "id": 25,
@@ -619,7 +619,7 @@
           "라이덴"
         ],
         "alt": "머리",
-        "image": "/images/머리/아케론.png"
+        "image": "/images/hair/25.png"
       },
       {
         "id": 26,
@@ -627,7 +627,7 @@
           "어공"
         ],
         "alt": "머리",
-        "image": "/images/머리/어공.png"
+        "image": "/images/hair/26.png"
       },
       {
         "id": 27,
@@ -635,7 +635,7 @@
           "영사"
         ],
         "alt": "머리",
-        "image": "/images/머리/영사.png"
+        "image": "/images/hair/27.png"
       },
       {
         "id": 28,
@@ -643,7 +643,7 @@
           "완매"
         ],
         "alt": "머리",
-        "image": "/images/머리/완매.png"
+        "image": "/images/hair/28.png"
       },
       {
         "id": 29,
@@ -651,7 +651,7 @@
           "운리"
         ],
         "alt": "머리",
-        "image": "/images/머리/운리.png"
+        "image": "/images/hair/29.png"
       },
       {
         "id": 30,
@@ -659,7 +659,7 @@
           "은랑"
         ],
         "alt": "머리",
-        "image": "/images/머리/은랑.png"
+        "image": "/images/hair/30.png"
       },
       {
         "id": 31,
@@ -667,7 +667,7 @@
           "정운"
         ],
         "alt": "머리",
-        "image": "/images/머리/정운.png"
+        "image": "/images/hair/31.png"
       },
       {
         "id": 32,
@@ -675,7 +675,7 @@
           "제레"
         ],
         "alt": "머리",
-        "image": "/images/머리/제레.png"
+        "image": "/images/hair/32.png"
       },
       {
         "id": 33,
@@ -683,7 +683,7 @@
           "제이드"
         ],
         "alt": "머리",
-        "image": "/images/머리/제이드.png"
+        "image": "/images/hair/33.png"
       },
       {
         "id": 34,
@@ -691,7 +691,7 @@
           "청작"
         ],
         "alt": "머리",
-        "image": "/images/머리/청작.png"
+        "image": "/images/hair/34.png"
       },
       {
         "id": 35,
@@ -700,7 +700,7 @@
           "카스"
         ],
         "alt": "머리",
-        "image": "/images/머리/카스토리스.png"
+        "image": "/images/hair/35.png"
       },
       {
         "id": 36,
@@ -708,7 +708,7 @@
           "카프카"
         ],
         "alt": "머리",
-        "image": "/images/머리/카프카.png"
+        "image": "/images/hair/36.png"
       },
       {
         "id": 37,
@@ -716,7 +716,7 @@
           "클라라"
         ],
         "alt": "머리",
-        "image": "/images/머리/클라라.png"
+        "image": "/images/hair/37.png"
       },
       {
         "id": 38,
@@ -724,7 +724,7 @@
           "토파즈"
         ],
         "alt": "머리",
-        "image": "/images/머리/토파즈.png"
+        "image": "/images/hair/38.png"
       },
       {
         "id": 39,
@@ -735,7 +735,7 @@
           "트리논"
         ],
         "alt": "머리",
-        "image": "/images/머리/트리비.png"
+        "image": "/images/hair/39.png"
       },
       {
         "id": 40,
@@ -743,7 +743,7 @@
           "페라"
         ],
         "alt": "머리",
-        "image": "/images/머리/페라.png"
+        "image": "/images/hair/40.png"
       },
       {
         "id": 41,
@@ -751,7 +751,7 @@
           "한아"
         ],
         "alt": "머리",
-        "image": "/images/머리/한아.png"
+        "image": "/images/hair/41.png"
       },
       {
         "id": 42,
@@ -759,7 +759,7 @@
           "헤르타"
         ],
         "alt": "머리",
-        "image": "/images/머리/헤르타.png"
+        "image": "/images/hair/42.png"
       },
       {
         "id": 43,
@@ -767,7 +767,7 @@
           "후크"
         ],
         "alt": "머리",
-        "image": "/images/머리/후크.png"
+        "image": "/images/hair/43.png"
       },
       {
         "id": 44,
@@ -775,7 +775,7 @@
           "히메코"
         ],
         "alt": "머리",
-        "image": "/images/머리/히메코.png"
+        "image": "/images/hair/44.png"
       },
       {
         "id": 45,
@@ -783,7 +783,7 @@
           "히아킨"
         ],
         "alt": "머리",
-        "image": "/images/머리/히아킨.png"
+        "image": "/images/hair/45.png"
       }
     ],
     "leg": [
@@ -794,7 +794,7 @@
           "스텔레"
         ],
         "alt": "신발",
-        "image": "/images/신발/개척자신발.png"
+        "image": "/images/leg/1.png"
       },
       {
         "id": 2,
@@ -802,7 +802,7 @@
           "경류"
         ],
         "alt": "신발",
-        "image": "/images/신발/경류신발.png"
+        "image": "/images/leg/2.png"
       },
       {
         "id": 3,
@@ -810,7 +810,7 @@
           "계네빈"
         ],
         "alt": "신발",
-        "image": "/images/신발/계네빈신발.png"
+        "image": "/images/leg/3.png"
       },
       {
         "id": 4,
@@ -818,7 +818,7 @@
           "곽향"
         ],
         "alt": "신발",
-        "image": "/images/신발/곽향신발.png"
+        "image": "/images/leg/4.png"
       },
       {
         "id": 5,
@@ -826,7 +826,7 @@
           "나타샤"
         ],
         "alt": "신발",
-        "image": "/images/신발/나타샤신발.png"
+        "image": "/images/leg/5.png"
       },
       {
         "id": 6,
@@ -835,7 +835,7 @@
           "더르타"
         ],
         "alt": "신발",
-        "image": "/images/신발/더헤르타신발.png"
+        "image": "/images/leg/6.png"
       },
       {
         "id": 7,
@@ -843,7 +843,7 @@
           "라파"
         ],
         "alt": "신발",
-        "image": "/images/신발/라파신발.png"
+        "image": "/images/leg/7.png"
       },
       {
         "id": 8,
@@ -851,7 +851,7 @@
           "로빈"
         ],
         "alt": "신발",
-        "image": "/images/신발/로빈신발.png"
+        "image": "/images/leg/8.png"
       },
       {
         "id": 9,
@@ -859,7 +859,7 @@
           "링스"
         ],
         "alt": "신발",
-        "image": "/images/신발/링스신발.png"
+        "image": "/images/leg/9.png"
       },
       {
         "id": 10,
@@ -867,7 +867,7 @@
           "망귀인"
         ],
         "alt": "신발",
-        "image": "/images/신발/망귀인신발.png"
+        "image": "/images/leg/10.png"
       },
       {
         "id": 11,
@@ -875,7 +875,7 @@
           "반디"
         ],
         "alt": "신발",
-        "image": "/images/신발/반디신발.png"
+        "image": "/images/leg/11.png"
       },
       {
         "id": 12,
@@ -883,7 +883,7 @@
           "백로"
         ],
         "alt": "신발",
-        "image": "/images/신발/백로신발.png"
+        "image": "/images/leg/12.png"
       },
       {
         "id": 13,
@@ -891,7 +891,7 @@
           "부현"
         ],
         "alt": "신발",
-        "image": "/images/신발/부현신발.png"
+        "image": "/images/leg/13.png"
       },
       {
         "id": 14,
@@ -899,7 +899,7 @@
           "브로냐"
         ],
         "alt": "신발",
-        "image": "/images/신발/브로냐신발.png"
+        "image": "/images/leg/14.png"
       },
       {
         "id": 15,
@@ -908,7 +908,7 @@
           "블스"
         ],
         "alt": "신발",
-        "image": "/images/신발/블랙스완신발.png"
+        "image": "/images/leg/15.png"
       },
       {
         "id": 16,
@@ -916,7 +916,7 @@
           "비소"
         ],
         "alt": "신발",
-        "image": "/images/신발/비소신발.png"
+        "image": "/images/leg/16.png"
       },
       {
         "id": 17,
@@ -924,7 +924,7 @@
           "사이퍼"
         ],
         "alt": "신발",
-        "image": "/images/신발/사이퍼신발.png"
+        "image": "/images/leg/17.png"
       },
       {
         "id": 18,
@@ -936,7 +936,7 @@
           "마치세븐스"
         ],
         "alt": "신발",
-        "image": "/images/신발/삼칠이신발.png"
+        "image": "/images/leg/18.png"
       },
       {
         "id": 19,
@@ -944,7 +944,7 @@
           "서벌"
         ],
         "alt": "신발",
-        "image": "/images/신발/서벌신발.png"
+        "image": "/images/leg/19.png"
       },
       {
         "id": 20,
@@ -952,7 +952,7 @@
           "설의"
         ],
         "alt": "신발",
-        "image": "/images/신발/설의신발.png"
+        "image": "/images/leg/20.png"
       },
       {
         "id": 21,
@@ -962,7 +962,7 @@
           "쏘쏘"
         ],
         "alt": "신발",
-        "image": "/images/신발/소상신발.png"
+        "image": "/images/leg/21.png"
       },
       {
         "id": 22,
@@ -971,7 +971,7 @@
           "하나비"
         ],
         "alt": "신발",
-        "image": "/images/신발/스파클신발.png"
+        "image": "/images/leg/22.png"
       },
       {
         "id": 23,
@@ -980,7 +980,7 @@
           "아글"
         ],
         "alt": "신발",
-        "image": "/images/신발/아글라이아신발.png"
+        "image": "/images/leg/23.png"
       },
       {
         "id": 24,
@@ -988,7 +988,7 @@
           "아스타"
         ],
         "alt": "신발",
-        "image": "/images/신발/아스타신발.png"
+        "image": "/images/leg/24.png"
       },
       {
         "id": 25,
@@ -997,7 +997,7 @@
           "라이덴"
         ],
         "alt": "신발",
-        "image": "/images/신발/아케론신발.png"
+        "image": "/images/leg/25.png"
       },
       {
         "id": 26,
@@ -1005,7 +1005,7 @@
           "어공"
         ],
         "alt": "신발",
-        "image": "/images/신발/어공신발.png"
+        "image": "/images/leg/26.png"
       },
       {
         "id": 27,
@@ -1013,7 +1013,7 @@
           "영사"
         ],
         "alt": "신발",
-        "image": "/images/신발/영사신발.png"
+        "image": "/images/leg/27.png"
       },
       {
         "id": 28,
@@ -1021,7 +1021,7 @@
           "완매"
         ],
         "alt": "신발",
-        "image": "/images/신발/완매신발.png"
+        "image": "/images/leg/28.png"
       },
       {
         "id": 29,
@@ -1029,7 +1029,7 @@
           "운리"
         ],
         "alt": "신발",
-        "image": "/images/신발/운리신발.png"
+        "image": "/images/leg/29.png"
       },
       {
         "id": 30,
@@ -1037,7 +1037,7 @@
           "은랑"
         ],
         "alt": "신발",
-        "image": "/images/신발/은랑신발.png"
+        "image": "/images/leg/30.png"
       },
       {
         "id": 31,
@@ -1045,7 +1045,7 @@
           "정운"
         ],
         "alt": "신발",
-        "image": "/images/신발/정운신발.png"
+        "image": "/images/leg/31.png"
       },
       {
         "id": 32,
@@ -1053,7 +1053,7 @@
           "제레"
         ],
         "alt": "신발",
-        "image": "/images/신발/제레신발.png"
+        "image": "/images/leg/32.png"
       },
       {
         "id": 33,
@@ -1061,7 +1061,7 @@
           "제이드"
         ],
         "alt": "신발",
-        "image": "/images/신발/제이드신발.png"
+        "image": "/images/leg/33.png"
       },
       {
         "id": 34,
@@ -1069,7 +1069,7 @@
           "청작"
         ],
         "alt": "신발",
-        "image": "/images/신발/청작신발.png"
+        "image": "/images/leg/34.png"
       },
       {
         "id": 35,
@@ -1078,7 +1078,7 @@
           "카스"
         ],
         "alt": "신발",
-        "image": "/images/신발/카스토리스신발.png"
+        "image": "/images/leg/35.png"
       },
       {
         "id": 36,
@@ -1086,7 +1086,7 @@
           "카프카"
         ],
         "alt": "신발",
-        "image": "/images/신발/카프카신발.png"
+        "image": "/images/leg/36.png"
       },
       {
         "id": 37,
@@ -1094,7 +1094,7 @@
           "클라라"
         ],
         "alt": "신발",
-        "image": "/images/신발/클라라신발.png"
+        "image": "/images/leg/37.png"
       },
       {
         "id": 38,
@@ -1102,7 +1102,7 @@
           "토파즈"
         ],
         "alt": "신발",
-        "image": "/images/신발/토파즈신발.png"
+        "image": "/images/leg/38.png"
       },
       {
         "id": 39,
@@ -1113,7 +1113,7 @@
           "트리논"
         ],
         "alt": "신발",
-        "image": "/images/신발/트리비신발.png"
+        "image": "/images/leg/39.png"
       },
       {
         "id": 40,
@@ -1121,7 +1121,7 @@
           "페라"
         ],
         "alt": "신발",
-        "image": "/images/신발/페라신발.png"
+        "image": "/images/leg/40.png"
       },
       {
         "id": 41,
@@ -1129,7 +1129,7 @@
           "한아"
         ],
         "alt": "신발",
-        "image": "/images/신발/한아신발.png"
+        "image": "/images/leg/41.png"
       },
       {
         "id": 42,
@@ -1137,7 +1137,7 @@
           "헤르타"
         ],
         "alt": "신발",
-        "image": "/images/신발/헤르타신발.png"
+        "image": "/images/leg/42.png"
       },
       {
         "id": 43,
@@ -1145,7 +1145,7 @@
           "후크"
         ],
         "alt": "신발",
-        "image": "/images/신발/후크신발.png"
+        "image": "/images/leg/43.png"
       },
       {
         "id": 44,
@@ -1153,7 +1153,7 @@
           "히메코"
         ],
         "alt": "신발",
-        "image": "/images/신발/히메코신발.png"
+        "image": "/images/leg/44.png"
       },
       {
         "id": 45,
@@ -1161,7 +1161,7 @@
           "히아킨"
         ],
         "alt": "신발",
-        "image": "/images/신발/히아킨신발.png"
+        "image": "/images/leg/45.png"
       }
     ]
   }

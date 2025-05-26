@@ -39,7 +39,7 @@ export default function QuizDetail() {
             alt={item.title}
             width={320}
             height={240}
-            className={styles.QuizPhoto}  
+            className={styles.QuizPhoto}
           />
           <div className={styles.QuizTitle}>
             {item.title}

@@ -2,7 +2,7 @@
   "compilerOptions": {
     "target": "ESNext", // 변경됨
     "module": "ESNext", // 변경됨
-    "moduleResolution": "Bundler", // 변경됨
+    "moduleResolution": "bundler", // 변경됨
     "skipLibCheck": true, // 유지됨
     "strict": true,
     "noEmit": true,
