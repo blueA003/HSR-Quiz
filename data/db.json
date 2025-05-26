@@ -3,28 +3,28 @@
     {
       "id": 1,
       "title": "붕괴: 스타레일 눈 보고 캐릭터 맞추기",
-      "subtitle": "눈",
+      "subtitle": "총 45캐릭터이며, 이격의 경우 구분하고 있으며 유저 사이에서 부르는 명칭으로도 정답 처리합니다.",
       "image": "/images/랑랑.png",
       "page" : "eyes"
     },
     {
       "id": 2,
       "title": "붕괴: 스타레일 신발 보고 캐릭터 맞추기",
-      "subtitle": "신발",
+      "subtitle": "사진은 다 은랑입니다(그야 귀엽잖아요)",
       "image": "/images/랑랑1.jpg",
       "page" : "leg"
     },
     {
       "id": 3,
       "title": "붕괴: 스타레일 머리 보고 캐릭터 맞추기",
-      "subtitle": "머리",
+      "subtitle": "붕괴: 스타레일 여캐만 모았습니다. 45캐릭터이며, 헤르타와 더 헤르타 / 정운과 망귀인은 구분하고 있습니다.",
       "image": "/images/랑랑3.jpg",
       "page" : "hair"
     },
     {
       "id": 4,
-      "title": "붕괴: 스타레일 X 보고 캐릭터 맞추기",
-      "subtitle": "미정",
+      "title": "맨 아래 제 포트폴리오랑 깃허브도 있습니다",
+      "subtitle": "한 번만 확인해 주세요",
       "image": "/images/랑랑4.jpg",
       "page" : "eyes"
     }
